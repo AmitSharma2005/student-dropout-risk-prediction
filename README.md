@@ -64,4 +64,4 @@ The project is built with a MERN stack and is designed to seamlessly integrate a
 
 ### Prediction result is returned and displayed on UI
 
-### Results are stored for future analysis
+### Results are stored for future analysis 
